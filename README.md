@@ -23,7 +23,7 @@ Training script: Coming soon.
 
 ## Qualitative Analysis
 
-![Qualitative Analysis Figure](qualitative.png)
+![Qualitative Analysis Figure](visual_compare.pdf)
 
 ## Acknowledgements
 
